@@ -4,3 +4,5 @@ server sends response
 
 client makes req for data/resource
 server sends data/resource for the req as a responce
+
+request contains header, authencation data, body
